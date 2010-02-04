@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns3:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://www.loc.gov/mods/v3" xmlns:ns2="http://www.w3.org/1999/xlink">
+    <ns3:titleInfo>
+        <ns3:title>Amalia von Solms Prinzessin von Nassau-Orange,</ns3:title>
+    </ns3:titleInfo>
+    <ns3:language>
+        <ns3:languageTerm type="code" authority="iso639-2b">eng</ns3:languageTerm>
+        <ns3:languageTerm type="text">eng</ns3:languageTerm>
+    </ns3:language>
+    <ns3:typeOfResource>still image</ns3:typeOfResource>
+    <ns3:originInfo>
+        <ns3:dateCreated>1602-?</ns3:dateCreated>
+    </ns3:originInfo>
+    <ns3:name type="personal" authority="lcnaf">
+        <ns3:role>
+            <ns3:roleTerm type="text" authority="marcrelator">Artist</ns3:roleTerm>
+            <ns3:roleTerm type="code" authority="marcrelator">art</ns3:roleTerm>
+        </ns3:role>
+        <ns3:namePart type="family">Van Dyke</ns3:namePart>
+        <ns3:namePart type="given">Anthony</ns3:namePart>
+        <ns3:namePart type="termsOfAddress">Sir</ns3:namePart>
+        <ns3:namePart type="date">1599-1641</ns3:namePart>
+        <ns3:displayForm>Van Dyke, Anthony, Sir, 1599-1641</ns3:displayForm>
+    </ns3:name>
+    <ns3:subject>
+        <ns3:name type="personal">
+            <ns3:role>
+                <ns3:roleTerm type="text" authority="marcrelator">Depicted</ns3:roleTerm>
+                <ns3:roleTerm type="code" authority="marcrelator">dpc</ns3:roleTerm>
+            </ns3:role>
+            <ns3:namePart type="family">Amalia von Solms </ns3:namePart>
+            <ns3:namePart type="termsOfAddress">Prinzessin von Nassau-Or</ns3:namePart>
+            <ns3:namePart type="date">1602-?</ns3:namePart>
+            <ns3:displayForm>Amalia von Solms , Prinzessin von Nassau-Or, 1602-?</ns3:displayForm>
+        </ns3:name>
+    </ns3:subject>
+    <ns3:name type="personal">
+        <ns3:role>
+            <ns3:roleTerm type="text" authority="marcrelator">Engraver</ns3:roleTerm>
+            <ns3:roleTerm type="code" authority="marcrelator">egr</ns3:roleTerm>
+        </ns3:role>
+        <ns3:namePart type="family">Woumans</ns3:namePart>
+        <ns3:namePart type="given">Coenrad</ns3:namePart>
+        <ns3:namePart type="date">1619-?</ns3:namePart>
+        <ns3:displayForm>Woumans, Coenrad, 1619-?</ns3:displayForm>
+    </ns3:name>
+    <ns3:subject authority="ingest">
+        <ns3:topic>Aristocrat, Dutch. W.</ns3:topic>
+    </ns3:subject>
+    <ns3:physicalDescription>
+        <ns3:note displayLabel="Kolb Collection Identifier">0027</ns3:note>
+    </ns3:physicalDescription>
+    <ns3:abstract displayLabel="Scope and Contents note">Emeliae De Solns, D.G. Princeps Arausionensium, Comitissa Nassaviae Etc. Antonius van Dyck pinxit. Conraet Waumans sculpsit.. .excudit. From: Iconography of Vandyke.</ns3:abstract>
+    <ns3:identifier displayLabel="Image-Master">//</ns3:identifier>
+</ns3:mods>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns3:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://www.loc.gov/mods/v3" xmlns:ns2="http://www.w3.org/1999/xlink">
+    <ns3:titleInfo>
+        <ns3:title>Albemarle, George Monk, 1st duke of,</ns3:title>
+    </ns3:titleInfo>
+    <ns3:language>
+        <ns3:languageTerm type="code" authority="iso639-2b">eng</ns3:languageTerm>
+        <ns3:languageTerm type="text">eng</ns3:languageTerm>
+    </ns3:language>
+    <ns3:typeOfResource>still image</ns3:typeOfResource>
+    <ns3:originInfo>
+        <ns3:dateCreated>1608-1670</ns3:dateCreated>
+        <ns3:dateCreated point="start">1608</ns3:dateCreated>
+        <ns3:dateCreated point="end">1670</ns3:dateCreated>
+    </ns3:originInfo>
+    <ns3:subject>
+        <ns3:name type="personal" authority="lcnaf">
+            <ns3:role>
+                <ns3:roleTerm type="text" authority="marcrelator">Depicted</ns3:roleTerm>
+                <ns3:roleTerm type="code" authority="marcrelator">dpc</ns3:roleTerm>
+            </ns3:role>
+            <ns3:namePart type="family">Albemarle</ns3:namePart>
+            <ns3:namePart type="given">George Monck</ns3:namePart>
+            <ns3:namePart type="termsOfAddress">Duke of</ns3:namePart>
+            <ns3:namePart type="date">1608-1670</ns3:namePart>
+            <ns3:displayForm>Albemarle, George Monck, Duke of, 1608-1670</ns3:displayForm>
+        </ns3:name>
+    </ns3:subject>
+    <ns3:name type="personal" authority="lcnaf">
+        <ns3:role>
+            <ns3:roleTerm type="text" authority="marcrelator">Engraver</ns3:roleTerm>
+            <ns3:roleTerm type="code" authority="marcrelator">egr</ns3:roleTerm>
+        </ns3:role>
+        <ns3:namePart type="family">Fry</ns3:namePart>
+        <ns3:namePart type="given">William Thomas</ns3:namePart>
+        <ns3:namePart type="date">1789-1843</ns3:namePart>
+        <ns3:displayForm>Fry, William Thomas, 1789-1843</ns3:displayForm>
+    </ns3:name>
+    <ns3:name type="personal" authority="lcnaf">
+        <ns3:role>
+            <ns3:roleTerm type="text" authority="marcrelator">Artist</ns3:roleTerm>
+            <ns3:roleTerm type="code" authority="marcrelator">art</ns3:roleTerm>
+        </ns3:role>
+        <ns3:namePart type="family">Lely</ns3:namePart>
+        <ns3:namePart type="given">Peter</ns3:namePart>
+        <ns3:namePart type="termsOfAddress">Sir</ns3:namePart>
+        <ns3:namePart type="date">1618-1680</ns3:namePart>
+        <ns3:displayForm>Lely, Peter, Sir, 1618-1680</ns3:displayForm>
+    </ns3:name>
+    <ns3:subject authority="ingest">
+        <ns3:topic>Statesman, English.</ns3:topic>
+    </ns3:subject>
+    <ns3:physicalDescription>
+        <ns3:note displayLabel="Kolb Collection Identifier">0015</ns3:note>
+    </ns3:physicalDescription>
+    <ns3:abstract displayLabel="Scope and Contents note">George Monk, Duke of Albemarle./From the original of Sir Peter Lely,in/The Town Hall, Exeter./Drawn by H.Crease, &amp;amp; Engraved [with Permission] by W.J.Fry/London Published Feb.y 1.1816, by Lackington,Allen &amp;amp; Co. and Longman Hurst Rees, Orme &amp;amp; Brown.</ns3:abstract>
+    <ns3:identifier displayLabel="Image-Service">//</ns3:identifier>
+</ns3:mods>

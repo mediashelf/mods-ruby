@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns3:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://www.loc.gov/mods/v3" xmlns:ns2="http://www.w3.org/1999/xlink">
+    <ns3:titleInfo>
+        <ns3:title>Alexander VIII.,[Pietro Ottoboni],</ns3:title>
+    </ns3:titleInfo>
+    <ns3:language>
+        <ns3:languageTerm type="code" authority="iso639-2b">eng</ns3:languageTerm>
+        <ns3:languageTerm type="text">eng</ns3:languageTerm>
+    </ns3:language>
+    <ns3:typeOfResource>still image</ns3:typeOfResource>
+    <ns3:originInfo>
+        <ns3:dateCreated>1610-1691</ns3:dateCreated>
+        <ns3:dateCreated point="start">1610</ns3:dateCreated>
+        <ns3:dateCreated point="end">1691</ns3:dateCreated>
+    </ns3:originInfo>
+    <ns3:subject>
+        <ns3:name type="personal" authority="lcnaf">
+            <ns3:role>
+                <ns3:roleTerm type="text" authority="marcrelator">Depicted</ns3:roleTerm>
+                <ns3:roleTerm type="code" authority="marcrelator">dpc</ns3:roleTerm>
+            </ns3:role>
+            <ns3:namePart type="family">Alexander VIII</ns3:namePart>
+            <ns3:namePart type="termsOfAddress">Pope</ns3:namePart>
+            <ns3:namePart type="date">1610-1691</ns3:namePart>
+            <ns3:displayForm>Alexander VIII, Pope, 1610-1691</ns3:displayForm>
+        </ns3:name>
+    </ns3:subject>
+    <ns3:name type="personal">
+        <ns3:role>
+            <ns3:roleTerm type="text" authority="marcrelator">Engraver</ns3:roleTerm>
+            <ns3:roleTerm type="code" authority="marcrelator">egr</ns3:roleTerm>
+        </ns3:role>
+        <ns3:namePart type="family">Vischer</ns3:namePart>
+        <ns3:namePart type="given">Nikolaus</ns3:namePart>
+        <ns3:namePart type="date">1597-1651</ns3:namePart>
+        <ns3:displayForm>Vischer, Nikolaus, 1597-1651</ns3:displayForm>
+    </ns3:name>
+    <ns3:subject authority="ingest">
+        <ns3:topic>Pope.</ns3:topic>
+    </ns3:subject>
+    <ns3:abstract displayLabel="Scope and Contents note">Alexander VIII. Ottobonus Venet: Pontifex Maximus. Ex Formis Nicolai Vischer. Cum Privilego: Praepotentiss D.D. Ordinum General: Belgij foederati.</ns3:abstract>
+    <ns3:physicalDescription>
+        <ns3:note displayLabel="Kolb Collection Identifier">0024</ns3:note>
+    </ns3:physicalDescription>
+    <ns3:identifier displayLabel="Image-Master">//</ns3:identifier>
+</ns3:mods>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns3:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ns3="http://www.loc.gov/mods/v3" xmlns:ns2="http://www.w3.org/1999/xlink">
+    <ns3:titleInfo>
+        <ns3:title>Rio Rita</ns3:title>
+    </ns3:titleInfo>
+    <ns3:language>
+        <ns3:languageTerm type="code" authority="iso639-2b">fre</ns3:languageTerm>
+        <ns3:languageTerm type="text">French</ns3:languageTerm>
+    </ns3:language>
+    <ns3:typeOfResource>still image</ns3:typeOfResource>
+    <ns3:originInfo>
+        <ns3:dateCreated>1930-07-21</ns3:dateCreated>
+    </ns3:originInfo>
+    <ns3:name type="personal" authority="lcnaf">
+        <ns3:role>
+            <ns3:roleTerm type="text" authority="marcrelator">Actor</ns3:roleTerm>
+            <ns3:roleTerm type="code" authority="marcrelator">act</ns3:roleTerm>
+        </ns3:role>
+        <ns3:namePart type="family">Daniels</ns3:namePart>
+        <ns3:namePart type="given">Bebe</ns3:namePart>
+        <ns3:namePart type="date">1901-1971</ns3:namePart>
+        <ns3:displayForm>Daniels, Bebe, 1901-1971</ns3:displayForm>
+    </ns3:name>
+    <ns3:name type="corporate" authority="ingest">
+        <ns3:role>
+            <ns3:roleTerm type="text" authority="marcrelator">Printer</ns3:roleTerm>
+            <ns3:roleTerm type="code" authority="marcrelator">prt</ns3:roleTerm>
+        </ns3:role>
+        <ns3:namePart>Itin &amp;amp;  Shoshany</ns3:namePart>
+        <ns3:displayForm>Itin &amp;amp;  Shoshany.</ns3:displayForm>
+    </ns3:name>
+    <ns3:name type="personal" authority="ingest">
+        <ns3:role>
+            <ns3:roleTerm type="text" authority="marcrelator">Actor</ns3:roleTerm>
+            <ns3:roleTerm type="code" authority="marcrelator">act</ns3:roleTerm>
+        </ns3:role>
+        <ns3:namePart type="family">Boles</ns3:namePart>
+        <ns3:namePart type="given">John</ns3:namePart>
+        <ns3:displayForm>Boles, John</ns3:displayForm>
+    </ns3:name>
+    <ns3:name type="corporate" authority="ingest">
+        <ns3:role>
+            <ns3:roleTerm type="text" authority="marcrelator">Publisher</ns3:roleTerm>
+            <ns3:roleTerm type="code" authority="marcrelator">pbl</ns3:roleTerm>
+        </ns3:role>
+        <ns3:namePart>Cinema Opera Mograbi</ns3:namePart>
+        <ns3:displayForm>Cinema Opera Mograbi.</ns3:displayForm>
+    </ns3:name>
+    <ns3:genre authority="ftamc">Film posters.</ns3:genre>
+    <ns3:subject authority="lcsh">
+        <ns3:geographic>Jaffa (Tel Aviv, Israel) -- History -- 20th century. </ns3:geographic>
+    </ns3:subject>
+    <ns3:subject authority="lcsh">
+        <ns3:geographic>Tel Aviv (Israel) -- History. </ns3:geographic>
+    </ns3:subject>
+    <ns3:relatedItem type="host">
+        <ns3:titleInfo>
+            <ns3:title>Eliasaf Robinson Tel Aviv Collection</ns3:title>
+        </ns3:titleInfo>
+        <ns3:originInfo>
+            <ns3:dateCreated>1909-1990</ns3:dateCreated>
+            <ns3:dateCreated point="start">1909</ns3:dateCreated>
+            <ns3:dateCreated point="end">1990</ns3:dateCreated>
+        </ns3:originInfo>
+        <ns3:identifier type="local">M.1522</ns3:identifier>
+    </ns3:relatedItem>
+    <ns3:note displayLabel="Digital object made available by ">Department of Special Collections and University Archives, Libraries, 557 Escondido Mall, Stanford, California, 94305-6064, U.S.A., (http://www-sul.stanford.edu/depts/spc/spc.html)</ns3:note>
+</ns3:mods>

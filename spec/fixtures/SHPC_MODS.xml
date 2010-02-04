@@ -1,0 +1,84 @@
+<mods:mods xmlns:xi="http://www.w3.org/2001/XInclude" xmlns:xxi="http://orbeon.org/oxf/xml/xinclude" xmlns:dl="http://dl.lib.brown.edu/editor/mods/dl" xmlns:xhtml="http://www.w3.org/1999/xhtml" xmlns:pipeline="java:org.orbeon.oxf.processor.pipeline.PipelineFunctionLibrary" xmlns:exforms="http://www.exforms.org/exf/1-0" xmlns:mods="http://www.loc.gov/mods/v3" xmlns:xbl="http://www.w3.org/ns/xbl" xmlns:xxforms="http://orbeon.org/oxf/xml/xforms" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:ev="http://www.w3.org/2001/xml-events" xmlns:xforms="http://www.w3.org/2002/xforms" xmlns:fr="http://orbeon.org/oxf/xml/form-runner">
+    <mods:identifier type="local" displayLabel="SU DRUID">dr:hk608rf1204</mods:identifier>
+    <mods:identifier type="local" displayLabel="Stanford University Archives Id">12638</mods:identifier>
+    <mods:titleInfo type="main">
+        <mods:nonSort/>
+        <mods:title>Jordan, David Starr</mods:title>
+        <mods:subTitle/>
+        <mods:partNumber/>
+
+        <mods:partName/>
+    </mods:titleInfo>
+    <mods:typeOfResource>still image</mods:typeOfResource>
+    <mods:originInfo>
+        <mods:dateOther encoding="w3cdtf" keyDate="no" qualifier="">1952-02-01</mods:dateOther>
+        <mods:place>
+            <mods:placeTerm type="text">Stanford, CA</mods:placeTerm>
+
+        </mods:place>
+        <mods:publisher>Stanford University Archives</mods:publisher>
+    </mods:originInfo>
+    <mods:name type="organization" authority="local">
+        <mods:namePart type="">Knoche Estate</mods:namePart>
+        <mods:role>
+            <mods:roleTerm type="text" authority="marcrelator">donor</mods:roleTerm>
+
+        </mods:role>
+    </mods:name>
+    <mods:name type="corporate" authority="">
+        <mods:namePart>Hill and Watkins</mods:namePart>
+        <mods:role>
+            <mods:roleTerm/>
+        </mods:role>
+    </mods:name>
+
+    <mods:genre>archival photoprints</mods:genre>
+    <mods:physicalDescription>
+        <mods:form authority="marcform"/>
+        <mods:internetMediaType>image/tiff</mods:internetMediaType>
+        <mods:extent>1 photograph; 14 x 17 in</mods:extent>
+        <mods:digitalOrigin>digitized other analog</mods:digitalOrigin>
+    </mods:physicalDescription>
+
+    <mods:location>
+        <mods:physicalLocation>B2,,,12638</mods:physicalLocation>
+        <mods:url usage="primary display" access=" "/>
+    </mods:location>
+    <mods:accessCondition type="useAndReproduction">Digital images from the Stanford Historical Photograph Collection may be viewed freely. These images may not be reproduced or used for any purpose without permission. For permission requests please contact the office of the University Archivist (mkimball@stanford.edu; 650-725-1161)</mods:accessCondition>
+    <mods:subject authority="keyword">
+        <mods:topic>Jorda</mods:topic>
+
+    </mods:subject>
+    <mods:recordInfo>
+        <mods:recordContentSource>Lyberteam Metadata ToolKit</mods:recordContentSource>
+        <mods:recordIdentifier source="Suri UUID"/>
+        <mods:recordCreationDate encoding="iso8601"/>
+    </mods:recordInfo>
+    <mods:relatedItem type="host">
+        <mods:titleInfo>
+
+            <mods:title type="">Stanford Historical Photograph Collection</mods:title>
+            <mods:subTitle/>
+        </mods:titleInfo>
+        <mods:typeOfResource collection="yes"/>
+        <mods:location>
+            <mods:physicalLocation>Department of Special Collections. Stanford University Libraries.</mods:physicalLocation>
+        </mods:location>
+        <mods:originInfo>
+
+            <mods:dateIssued point="start">1887</mods:dateIssued>
+            <mods:dateIssued point="end">1996</mods:dateIssued>
+        </mods:originInfo>
+        <mods:recordInfo/>
+        <mods:recordIdentifier source="Symphony Catalog Key">4769498</mods:recordIdentifier>
+    </mods:relatedItem>
+    <mods:relatedItem type="series">
+
+        <mods:titleInfo>
+            <mods:title>General Photo</mods:title>
+            <mods:subTitle>B2</mods:subTitle>
+            <mods:partNumber/>
+            <mods:partName/>
+        </mods:titleInfo>
+    </mods:relatedItem>
+</mods:mods>

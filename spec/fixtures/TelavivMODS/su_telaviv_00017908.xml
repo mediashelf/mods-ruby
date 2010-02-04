@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<ns3:mods xsi:schemaLocation="http://www.loc.gov/mods/v3 http://www.loc.gov/standards/mods/v3/mods-3-2.xsd" xmlns:ns2="http://www.w3.org/1999/xlink" xmlns:ns3="http://www.loc.gov/mods/v3" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <ns3:titleInfo>
+        <ns3:title>Madona Of Avenue "A"</ns3:title>
+    </ns3:titleInfo>
+    <ns3:language>
+        <ns3:languageTerm type="code" authority="iso639-2b">mul</ns3:languageTerm>
+        <ns3:languageTerm type="text">Multiple languages</ns3:languageTerm>
+    </ns3:language>
+    <ns3:typeOfResource>still image</ns3:typeOfResource>
+    <ns3:originInfo>
+        <ns3:dateCreated>1930-06-7</ns3:dateCreated>
+    </ns3:originInfo>
+    <ns3:subject>
+        <ns3:name type="corporate" authority="ingest">
+            <ns3:role>
+                <ns3:roleTerm type="text" authority="marcrelator">Host</ns3:roleTerm>
+                <ns3:roleTerm type="code" authority="marcrelator">hst</ns3:roleTerm>
+            </ns3:role>
+            <ns3:namePart>Cinema Eden</ns3:namePart>
+            <ns3:displayForm>Cinema Eden.</ns3:displayForm>
+        </ns3:name>
+    </ns3:subject>
+    <ns3:subject authority="LCSH">
+        <ns3:topic>Motion pictures--Israel--Tel Aviv</ns3:topic>
+    </ns3:subject>
+    <ns3:subject authority="lcsh">
+        <ns3:geographic>Tel Aviv (Israel) -- History. </ns3:geographic>
+    </ns3:subject>
+    <ns3:relatedItem type="host">
+        <ns3:titleInfo>
+            <ns3:title>Eliasaf Robinson Tel Aviv Collection</ns3:title>
+        </ns3:titleInfo>
+        <ns3:originInfo>
+            <ns3:dateCreated>1909-1990</ns3:dateCreated>
+            <ns3:dateCreated point="start">1909</ns3:dateCreated>
+            <ns3:dateCreated point="end">1990</ns3:dateCreated>
+        </ns3:originInfo>
+        <ns3:identifier type="local">M.1522</ns3:identifier>
+    </ns3:relatedItem>
+    <ns3:note displayLabel="Digital object made available by ">Department of Special Collections and University Archives, Stanford University Libraries, 557 Escondido Mall, Stanford, California, 94305-6064, U.S.A., (Repository URL http://www-sul.stanford.edu/depts/spc/spc.html)</ns3:note>
+</ns3:mods>
