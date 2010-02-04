@@ -1,6 +1,6 @@
 = mods-ruby
 
-Description goes here.
+A convenience libary for manipulating MODS (Metadata Object Description Schema) documents.
 
 == Note on Patches/Pull Requests
  
@@ -14,4 +14,4 @@ Description goes here.
 
 == Copyright
 
-Copyright (c) 2010 Matt Zumwalt. See LICENSE for details.
+Copyright (c) 2010 MediaShelf, LLC. See LICENSE for details.
