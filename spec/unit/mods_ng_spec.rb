@@ -12,7 +12,11 @@ describe "ModsNG" do
   end
   
   describe "#name" do
+        
     it "should construct name nodes" do
+      
+      pending "For now rely on the ModsHelpers module directly for this method"
+      
       n1 = ModsNG.name("Beethoven, Ludwig van", :date=>"1770-1827")
       n1.to_xml.should == Nokogiri::XML.parse('<name type="personal"><namePart>Beethoven, Ludwig van</namePart><namePart type="date">1770-1827</namePart></name>').to_xml
     
@@ -29,6 +33,9 @@ describe "ModsNG" do
   
   describe '#role' do
     it "should construct role nodes" do
+      
+      pending "For now rely on the ModsHelpers module directly for this method"
+      
       r1 = ModsNG.role("creator")
       r1.to_xml.should == Nokogiri::XML.parse('<role><roleTerm type="text">creator</roleTerm></role>').to_xml
     
@@ -36,6 +43,9 @@ describe "ModsNG" do
       r2.to_xml.should == Nokogiri::XML.parse('<role><roleTerm type="text" authority="marcrelator">creator</roleTerm></role>').to_xml
     end
     it "should accept a root node to insert its results into" do
+      
+      pending "For now rely on the ModsHelpers module directly for this method"
+      
       builder = Nokogiri::XML::Builder.new do |xml|
         xml.foo {
           xml.bar {
