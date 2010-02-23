@@ -1,7 +1,7 @@
 module ModsRuby
 module ModsHelpers
   
-  def self.name text, opts={}
+  def self.name_ text, opts={}
     opts = {:type=>"personal"}.merge opts
     builder = Nokogiri::XML::Builder.new do |xml|
       xml.name(:type=>opts[:type]) {

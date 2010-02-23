@@ -18,16 +18,16 @@ describe "ModsHelpers" do
   
   describe "#name" do
     it "should construct name nodes" do
-      n1 = ModsHelpers.name("Beethoven, Ludwig van", :date=>"1770-1827")
+      n1 = ModsHelpers.name_("Beethoven, Ludwig van", :date=>"1770-1827")
       n1.to_xml.should == Nokogiri::XML.parse('<name type="personal"><namePart>Beethoven, Ludwig van</namePart><namePart type="date">1770-1827</namePart></name>').to_xml
     
-      n2 = ModsHelpers.name("Naxos Digital Services", :type=>"corporate")
+      n2 = ModsHelpers.name_("Naxos Digital Services", :type=>"corporate")
       n2.to_xml.should == Nokogiri::XML.parse('<name type="corporate"><namePart>Naxos Digital Services</namePart></name>').to_xml
     
-      n3 = ModsHelpers.name("Alterman, Eric", :role=>"creator")
+      n3 = ModsHelpers.name_("Alterman, Eric", :role=>"creator")
       n3.to_xml.should == Nokogiri::XML.parse('<name type="personal"><namePart>Alterman, Eric</namePart><role><roleTerm type="text">creator</roleTerm></role></name>').to_xml
     
-      n4 = ModsHelpers.name("Tuell, Hiram.", :role=>{:value=>"creator", :authority=>"marcrelator"})
+      n4 = ModsHelpers.name_("Tuell, Hiram.", :role=>{:value=>"creator", :authority=>"marcrelator"})
       n4.to_xml.should == Nokogiri::XML.parse('<name type="personal"><namePart>Tuell, Hiram.</namePart><role><roleTerm type="text" authority="marcrelator">creator</roleTerm></role></name>').to_xml
     end
   end
